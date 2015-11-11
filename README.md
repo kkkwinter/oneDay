@@ -1,3 +1,3 @@
 # oneDay
 it is first repository in github
-for testing and develop later
+for testing and developing later
